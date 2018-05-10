@@ -1,0 +1,11 @@
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\bin\Debug\BLL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\bin\Debug\BLL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.pdb
+E:\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.dll
+E:\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.pdb
+E:\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+E:\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+E:\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.dll
+E:\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.pdb
